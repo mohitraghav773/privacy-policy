@@ -1,4 +1,4 @@
-Effective Date: 29/04/2025
+Effective Date: 29/04/2025  
 
 DiviPay respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, and share information when you use our mobile application ("DiviPay" or "App").
 
